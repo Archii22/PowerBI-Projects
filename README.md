@@ -2,7 +2,13 @@
 
 ## 📷 Dashboard Preview
 
-![Dashboard Page 1](/images/)
+### Page 1 – Overview Dashboard
+![Data Jobs Dashboard - Page 1](./PowerBI/Project-1%20page-1.png)
+
+### Page 2 – Drill Through (Data Analyst)
+![Data Jobs Dashboard - Page 2](./PowerBI/Project-1%20page-2.png)
+
+---
 
 ## INTRODUCTION 
 This project is a **Data Job Dashboard** built in Power BI, designed to analyze and visualize job market data.  
