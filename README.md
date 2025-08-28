@@ -16,7 +16,16 @@ An interactive Power BI dashboard built to showcase data storytelling and insigh
 - Clean and optimized data model  
 - Use of DAX measures for KPIs  
 - Interactive filters and slicers  
-- Professional report layout  
+- Professional report layout
+
+## 📌 How to Open These Files
+
+1. Click on the `.pbix` file you want (e.g., `Project - 1.pbix`).
+2. Download it to your computer.
+3. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free).
+4. Open the file in Power BI Desktop.
+5. Explore the interactive dashboard and reports.
+
 
 ---
 
