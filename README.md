@@ -44,6 +44,50 @@ The dashboard helps identify hiring trends, required skills, and demand across d
 
 ---
 
+##  📊 Dashboard Overview
+
+### Page-1 : High-Level Market View
+
+![Data Jobs Dashboard - Page 1](./PowerBI/Project%20-1%20page-1.png)
+
+1.This page provides a high-level summary of Data Jobs in 2024. It highlights:
+2.Job Count & Salary Ratings → Total 479K job postings with salary star ratings.
+3.Median Salaries → $113K yearly and $47.62 hourly median salaries across roles.
+4.Trends Over Time → Job count trend across months to track hiring patterns.
+5.Top Paying Roles → Senior Data Scientists and Machine Learning Engineers leading in compensation.
+6.Salary Comparison → Hourly vs. yearly salaries across job roles.
+7.Job Title Breakdown → Role-wise distribution of job count, average salary, and job trends.
+
+This dashboard gives recruiters and analysts a quick snapshot of the job market, identifying demand, salary ranges, and growth areas    in the data domain.
+
+### Page-2 : Job Title Drill Through
+
+![Data Jobs Dashboard - Page 2](./PowerBI/Project-1%20page-2.png)
+
+This page provides a detailed view of the Data Analyst role, focusing on salary insights, job distribution, and work conditions. It includes:
+Salary Insights → Yearly salary ($90K average) and hourly pay ($33 average).
+Work Conditions → Share of remote (WFH) jobs, health insurance availability and whether a degree is required.
+Global Job Distribution → Interactive map showing worldwide job opportunities.
+Job Platforms → Breakdown of where Data Analyst roles are most frequently posted (LinkedIn, Indeed, etc.).
+Job Types → Categorization of jobs as full-time, contract, internship, or par-time.
+
+This drill-through enables a role-specific analysis, helping job seekers, recruiters, and analysts understand the opportunities and requirements tied to the Data Analyst position.
+
+
+---
+
+## Conclusion:
+
+This Power BI project provides a comprehensive analysis of the Data Jobs market in 2024. The dashboards highlight key insights such as job demand, salary trends, top-paying roles, and global opportunities. By combining an overview (Page 1) with a detailed drill-through (Page 2), the report gives both a macro-level view of the industry and a micro-level role-specific analysis.
+
+These insights can help:
+Job Seekers → Identify high-paying roles, in-demand skills, and platforms with the most opportunities.
+Recruiters & Companies → Understand market competition, salary benchmarks, and workforce distribution.
+Analysts & Learners → Explore practical Power BI skills such as data modeling, DAX calculations, and interactive dashboards.
+Overall, this project demonstrates the power of data visualization in making informed career and hiring decisions within the data industry.
+
+
+---
 *(More projects will be added here as I continue building my portfolio.)*
 
 
